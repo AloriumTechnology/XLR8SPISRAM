@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For XLR8SPISRAM
+####################################### 
+# Class
+#######################################
+
+XLR8SPISRAM_Class	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+byte_mode	KEYWORD2
+page_mode	KEYWORD2
+sequential_mode	KEYWORD2
+clock_divider	KEYWORD2
+extended_address_enable	KEYWORD2
+extended_address_disable	KEYWORD2
+
+#######################################
+# Constants
+#######################################
+
+XLR8SPISRAM	KEYWORD1
