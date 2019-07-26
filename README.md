@@ -1,4 +1,4 @@
-# XLR8SPISRAM Library
+# XLR8 SPI SRAM Library (XLR8SPISRAM)
 
 This library provides access to a SPI SRAM control XB, allowing hardware control of an attached SPI SRAM.
 
